@@ -13,8 +13,8 @@ const firebaseConfig = {
   apiKey: "AIzaSyA3e_U5gU3A0wMdXSOW8SLADp8UE5tvjnM",
   authDomain: "investor-connect-b6f7f.firebaseapp.com",
   projectId: "investor-connect-b6f7f",
-  storageBucket: "investor-connect-b6f7f.firebasestorage.app",
-  messagingSenderId: "469712438427",
+  storageBucket: "investor-connect-XXXXX.firebasestorage.app",
+  messagingSenderId: "4697124XXXXX",
   appId: "1:469712438427:web:5dcdc981f8d9f34081f23e",
   measurementId: "G-WGVHG67K7R"
 };
